@@ -1,0 +1,80 @@
+<script type='application/ld+json'>
+  {
+    "@context": "http://www.schema.org",
+    "@type": "LocalBusiness",
+    "name": "Reparaciones Valencia",
+    "url": "https://www.reparacionesvalencia.com.es",
+    "logo": "https://www.reparacionesvalencia.com.es/images/reparaciones-valencia-logo.png",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.reparacionesvalencia.com.es"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "20"
+    },
+    "address": [{
+      "@type": "PostalAddress",
+      "streetAddress": "Carrer del Convent de Sant Francesc, 07, D",
+      "addressLocality": "Valencia",
+      "addressRegion": "VC",
+      "addressCountry": "ES",
+      "postalCode": "46002"
+    }],
+    "contactPoint": [{
+      "@type": "ContactPoint",
+      "telephone": "963 28 14 10",
+      "contactType": "Technical Support"
+    }],
+    "telephone": "961 10 11 68",
+    "hasMap": "https://goo.gl/maps/k4EJNzejxRXcJFZn8",
+    "image": "https://goo.gl/Ri4F1M",
+    "email": "info@reparacionesvalencia.com.es",
+    "description": "Especialistas en reparación de electrodomésticos",
+    "currenciesAccepted": "EUR",
+    "paymentAccepted": "Cash, Credit card",
+    "priceRange": "29,90-300 €",
+    "openingHours": "Mo, Tu, We, Th, Fr 08:00-20:00 Sa 08:15-18:00",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "39.468969",
+      "longitude": "-0.377722"
+    },
+    "location": [{
+      "@type": "PostalAddress",
+      "telephone": "961 10 11 68",
+      "streetAddress": "Carrer del Convent de Sant Francesc, 07, D",
+      "addressLocality": "València",
+      "addressRegion": "VC",
+      "addressCountry": "ES",
+      "postalCode": "46002",
+      "serviceArea": [{
+        "@type": "postalAddress",
+        "addressLocality": "Alboraya",
+        "addressRegion": "VC",
+        "addressCountry": "ES"
+      }, {
+        "@type": "postalAddress",
+        "addressLocality": "Mislata",
+        "addressRegion": "VC",
+        "addressCountry": "ES"
+      }, {
+        "@type": "postalAddress",
+        "addressLocality": "Paterna",
+        "addressRegion": "VC",
+        "addressCountry": "ES"
+      }, {
+        "@type": "postalAddress",
+        "addressLocality": "Torrente",
+        "addressRegion": "VC",
+        "addressCountry": "ES"
+      }, {
+        "@type": "postalAddress",
+        "addressLocality": "Valencia",
+        "addressRegion": "VC",
+        "addressCountry": "ES"
+      }]
+    }]
+  }
+</script>
